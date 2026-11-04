@@ -1,0 +1,4 @@
+interface:
+  display_name: "仓颉·认知舵标"
+  short_description: "把书籍论文蒸馏成人类可精读的知识生命体，支持动态详略控制"
+  default_prompt: "Use $cangjie-cognitive-compass to turn this chapter into a faithful, evidence-grounded, human-readable knowledge lifeform."
